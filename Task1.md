@@ -1,4 +1,4 @@
-# Exploring Pennylane: Your Introduction to Quantum Computing and Beyond
+# Exploring Pennylane: Introduction to Quantum Machine Learning and Beyond
 
 As it was advertised from the very beginning of the QML course, it's really easy and really hard in really unexpected way. We started our journey on Pennylane in the first week after the first Xanadu lecture. Of course we went for the codebook without hesitation. We didn't expect much, as we thought it would be the same as other package or library documentation, full of crammed up and confusing information, with some complex page layout.
 
