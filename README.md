@@ -56,6 +56,6 @@ This project aims to enhance conspicuity detection in production, enabling the e
 - `Task5_the_dragon_level.ipynb` - Advanced task implementation and analysis.
 
 ### Project Presentation Deck:
-[QARS Project Presentation](#https://www.canva.com/design/DAGNKCX_Bek/UdZX23_Zz9BEFtqDuty9Rg/edit?utm_content=DAGNKCX_Bek&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[QARS Project Presentation](https://www.canva.com/design/DAGNKCX_Bek/UdZX23_Zz9BEFtqDuty9Rg/edit?utm_content=DAGNKCX_Bek&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 See project presentation guidelines [here](https://docs.google.com/document/d/13nWF8AxFAfFYTWEYPT3BpPdYkqtxxSAjmuXj_zcMh-E/edit?usp=sharing)
